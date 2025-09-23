@@ -1,0 +1,14 @@
+# Web App & API
+streamlit
+fastapi
+uvicorn[standard]
+
+# Text Extraction
+pdfplumber
+python-docx
+
+# NLP & Embeddings
+sentence-transformers
+spacy
+scikit-learn
+numpy

@@ -1,0 +1,20 @@
+# Git and GitHub
+.git
+.github
+
+# Virtual environment
+.venv
+venv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Test files (not needed in production container)
+tests/

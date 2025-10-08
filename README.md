@@ -1,3 +1,12 @@
+title: Resume_match_AI
+emoji: ⚡
+colorFrom: red
+colorTo: green
+sdk: docker
+pinned: false
+license: mit
+short_description: AI Resume Match
+
 # Resume Match AI 🤖💼
 
 Resume Match AI is an automated tool to help job seekers evaluate how well their resume matches a job posting. The app produces a match score, highlights missing keywords/skills, and suggests actionable edits to improve the resume's alignment with an Applicant Tracking System (ATS).
